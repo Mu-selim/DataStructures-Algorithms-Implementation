@@ -24,7 +24,7 @@ let isBalanced = (s) => {
             }
         }
     }
-    return true;
+    return stack.length === 0;
 }
 
 console.log(isBalanced('{}'));
@@ -35,3 +35,7 @@ console.log(isBalanced('{(())()[()])}'));
 console.log(isBalanced('{(())()[(])}'));
 console.log(isBalanced('{(())()[([{}])]}'));
 console.log(isBalanced('}{(())()[()]}'));
+console.log(isBalanced('((12+5)*4)'));
+console.log(isBalanced('((12+5)*(4))'));
+console.log(isBalanced('((12+5)*(4)'));
+console.log(isBalanced('((12+5)*(4)/12)'));
