@@ -1,7 +1,7 @@
 # **Data structures and Algorithms Implementation**
 
 * [**JavaScript**](#javascript)
-* [**C#**](#c#)
+* [**C#**](#c)
 
 ## ***JavaScript***
 #### [**Data sturtures**](JavaScript/Data%20Structures)
