@@ -9,6 +9,8 @@
   * [*Stack*](JavaScript/Data%20Structures/Linear/Stack)
     * [Array based Stack](JavaScript/Data%20Structures/Linear/Stack/Array%20based%20Stack.js)
   * [*Queue*](JavaScript/Data%20Structures/Linear/Queue)
+    * [Linear Queue](JavaScript/Data%20Structures/Linear/Queue/Linear%20Queue.js)
+    * [Circular Queue](JavaScript/Data%20Structures/Linear/Queue/Circular%20Queue.js)
     * [Queue using Stack implementation](JavaScript/Data%20Structures/Linear/Queue/Queue%20using%20Stack.js)
 * [***Non Linear***](JavaScript/Data%20Structures/Non%20linear)
 
@@ -33,8 +35,8 @@
     * [Array based Stack](C%23/Data%20Structures/Linear/Stack/Array%20based%20Stack.cs)
     * [Linkedlist based Stack](C%23/Data%20Structures/Linear/Stack/Linkedlist%20based%20Stack.cs)
   * [*Queue*](C%23/Data%20Structures/Linear/Queue)
-    * [Linear Queue](/C%23/Data%20Structures/Linear/Queue/Linear%20Queue.cs)
-    * [Circular Queue](/C%23/Data%20Structures/Linear/Queue/Circular%20Queue.cs)
+    * [Linear Queue](C%23/Data%20Structures/Linear/Queue/Linear%20Queue.cs)
+    * [Circular Queue](C%23/Data%20Structures/Linear/Queue/Circular%20Queue.cs)
     * [Queue using Stack implementation](C%23/Data%20Structures/Linear/Queue/Queue%20using%20Stack.cs)
 * [***Non Linear***](C%23/Data%20Structures/Non%20linear)
 
