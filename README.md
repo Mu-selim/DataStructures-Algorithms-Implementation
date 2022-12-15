@@ -21,6 +21,7 @@
 * [Stack Applications](JavaScript/Algorithms/Stack%20Applications)
   * [Balanced parentheses](JavaScript/Algorithms/Stack%20Applications/balanced%20parentheses.js)
   * [Expression evaluation](JavaScript/Algorithms/Stack%20Applications/expression%20evaluation.js)
+  * [Palindrome expression](JavaScript/Algorithms/Stack%20Applications/palindrome%20expression.js)
 
 ## ***C#***
 #### [**Data sturtures**](JavaScript/Data%20Structures)
