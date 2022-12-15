@@ -40,4 +40,5 @@
   * [Shell Sort](C%23/Algorithms/Sorting/Shell%20Sort.cs)
 * [Stack Applications](C%23/Algorithms/Stack%20Applications)
   * [Balanced parentheses](C%23/Algorithms/Stack%20Applications/balanced%20parentheses.cs)
-  * [Expression evaluation](C%23/Algorithms/Stack%20Applications/expression%20evaluation.cs) 
+  * [Expression evaluation](C%23/Algorithms/Stack%20Applications/expression%20evaluation.cs)
+  * [Palindrome expression](C%23/Algorithms/Stack%20Applications/palindrome%20expression.cs)
