@@ -36,6 +36,7 @@
   * [Bubble Sort](C%23/Algorithms/Sorting/Bubble%20Sort.cs)
   * [Insertion Sort](C%23/Algorithms/Sorting/Insertion%20Sort.cs)
   * [Selection Sort](C%23/Algorithms/Sorting/Selection%20Sort.cs)
+  * [Shell Sort](C%23/Algorithms/Sorting/Shell%20Sort.cs)
 * [Stack Applications](C%23/Algorithms/Stack%20Applications)
   * [Balanced parentheses](C%23/Algorithms/Stack%20Applications/balanced%20parentheses.cs)
   * [Expression evaluation](C%23/Algorithms/Stack%20Applications/expression%20evaluation.cs) 
