@@ -55,7 +55,7 @@
   * [Expression evaluation](C%23/Algorithms/Stack%20Applications/expression%20evaluation.cs)
   * [Palindrome expression](C%23/Algorithms/Stack%20Applications/palindrome%20expression.cs)
 
-## ***Leetcode Problems***
+## [***Leetcode Problems***](Leetcode%20problems)
 * [*Easy*](#easy)
 * [*Medium*](#medium)
 * [*Hard*](#hard)
