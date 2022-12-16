@@ -2,6 +2,7 @@
 
 * [**JavaScript**](#javascript)
 * [**C#**](#c)
+* [**Leetcode problems**](#leetcode-problems)
 
 ## ***JavaScript***
 #### [**Data sturtures**](JavaScript/Data%20Structures)
@@ -53,3 +54,8 @@
   * [Balanced parentheses](C%23/Algorithms/Stack%20Applications/balanced%20parentheses.cs)
   * [Expression evaluation](C%23/Algorithms/Stack%20Applications/expression%20evaluation.cs)
   * [Palindrome expression](C%23/Algorithms/Stack%20Applications/palindrome%20expression.cs)
+
+## ***Leetcode Problems***
+| Problem | Difficulty | Solution |
+|---------|------------|-----------|
+| [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | easy | [link](Leetcode%20problems/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.js)|
