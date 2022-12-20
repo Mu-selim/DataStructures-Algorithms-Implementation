@@ -11,6 +11,7 @@
 | [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | easy | [link](Leetcode%20problems/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.js)
 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | easy | [link](Leetcode%20problems/844.%20Backspace%20String%20Compare.js)
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | easy | [link](Leetcode%20problems/20.%20Valid%20Parentheses.js)
+| [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | easy | [link](Leetcode%20problems/1.%20Two%20Sum.js)
 
 ## ***Medium***
 
