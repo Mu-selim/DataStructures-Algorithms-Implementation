@@ -69,6 +69,8 @@
 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | easy | [link](Leetcode%20problems/844.%20Backspace%20String%20Compare.js)
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | easy | [link](Leetcode%20problems/20.%20Valid%20Parentheses.js)
 | [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | easy | [link](Leetcode%20problems/1.%20Two%20Sum.js)
+| [268. Missing Number](https://leetcode.com/problems/missing-number/description/) | easy | [link](Leetcode%20problems/268.%20Missing%20Number.js)
+| [136. Single Number](https://leetcode.com/problems/single-number/description/) | easy | [link](Leetcode%20problems/136.%20Single%20Number.js)
 
 
 ### ***Medium***
