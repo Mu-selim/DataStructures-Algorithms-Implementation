@@ -70,7 +70,9 @@
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | easy | [link](Leetcode%20problems/20.%20Valid%20Parentheses.js)
 | [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | easy | [link](Leetcode%20problems/1.%20Two%20Sum.js)
 | [268. Missing Number](https://leetcode.com/problems/missing-number/description/) | easy | [link](Leetcode%20problems/268.%20Missing%20Number.js)
-| [136. Single Number](https://leetcode.com/problems/single-number/description/) | easy | [link](Leetcode%20problems/136.%20Single%20Number.js)
+| [136. Single Number](https://leetcode.com/problems/single-number/description/) | easy | [link](Leetcode%20problems/136.%20Single%20Number.js) |
+| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | easy | [link](Leetcode%20problems/35.%20Search%20Insert%20Position.js) |
+
 
 
 ### ***Medium***
