@@ -73,6 +73,7 @@
 | [136. Single Number](https://leetcode.com/problems/single-number/description/) | easy | [link](Leetcode%20problems/136.%20Single%20Number.js) |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | easy | [link](Leetcode%20problems/35.%20Search%20Insert%20Position.js) |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | easy | [link](Leetcode%20problems/169.%20Majority%20Element.js) |
+| [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/) | easy | [link](Leetcode%20problems/2404.%20Most%20Frequent%20Even%20Element.js) |
 
 
 
