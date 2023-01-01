@@ -72,6 +72,7 @@
 | [268. Missing Number](https://leetcode.com/problems/missing-number/description/) | easy | [link](Leetcode%20problems/268.%20Missing%20Number.js)
 | [136. Single Number](https://leetcode.com/problems/single-number/description/) | easy | [link](Leetcode%20problems/136.%20Single%20Number.js) |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | easy | [link](Leetcode%20problems/35.%20Search%20Insert%20Position.js) |
+| [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | easy | [link](Leetcode%20problems/169.%20Majority%20Element.js) |
 
 
 
