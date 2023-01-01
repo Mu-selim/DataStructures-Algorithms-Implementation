@@ -82,7 +82,7 @@
 
 | Problem | Difficulty | Solution |
 |---------|------------|-----------|
-| [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | easy | [link](Leetcode%20problems/739.%20Daily%20Temperatures.js)
+| [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | [link](Leetcode%20problems/739.%20Daily%20Temperatures.js)
 
 
 ### ***Hard***
