@@ -75,7 +75,7 @@
 | [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | easy | [link](Leetcode%20problems/169.%20Majority%20Element.js) |
 | [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/) | easy | [link](Leetcode%20problems/2404.%20Most%20Frequent%20Even%20Element.js) |
 | [292. Nim Game](https://leetcode.com/problems/nim-game/description/) | easy | [link](Leetcode%20problems/292.%20Nim%20Game.js) |
-| [292. Nim Game](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | easy | [link](Leetcode%20problems/26.%20Remove%20Duplicates%20from%20Sorted%20Array.js) |
+| [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | easy | [link](Leetcode%20problems/26.%20Remove%20Duplicates%20from%20Sorted%20Array.js) |
 
 
 
